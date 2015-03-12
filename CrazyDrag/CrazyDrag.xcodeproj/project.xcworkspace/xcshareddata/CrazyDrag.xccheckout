@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E578AFC8-EB7F-414A-BAC1-2CFF587D1066</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CrazyDrag</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80E6F96FA1274600457443538FF5FEA431ED1F03</key>
+		<string>https://github.com/huangge0385/ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CrazyDrag/CrazyDrag.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80E6F96FA1274600457443538FF5FEA431ED1F03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/huangge0385/ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80E6F96FA1274600457443538FF5FEA431ED1F03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80E6F96FA1274600457443538FF5FEA431ED1F03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

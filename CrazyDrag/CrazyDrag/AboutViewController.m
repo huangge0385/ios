@@ -39,7 +39,7 @@
 //    
     //display a web site
     
-    NSURL *url = [NSURL URLWithString:@"https://www.google.com/maps/@33.7773228,-84.3986801,16z"];
+    NSURL *url = [NSURL URLWithString:@"http://ec2-54-186-153-62.us-west-2.compute.amazonaws.com/index.html"];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     [self.webView loadRequest:request];
     

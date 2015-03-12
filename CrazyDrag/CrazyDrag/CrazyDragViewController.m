@@ -164,7 +164,7 @@
     NSString *title;
     
     if(difference ==0){
-        title = @"土豪你太NB了！";
+        title = @"what a master！1st prize";
         points +=100;
         
     }else if(difference <5){
@@ -172,16 +172,16 @@
         if(difference ==1){
             points +=50;
         }
-        title = @"土豪太棒了，差一点！";
+        title = @"2nd prize！";
     }else if(difference <10){
-        title = @"好吧，勉强算个土豪";
+        title = @"3rd prize! ";
     }else{
-        title = @"不是土豪少来装！";
+        title = @"You missed！";
     }
     
-    NSString *message = [NSString stringWithFormat:@"恭喜高富帅，您的得分是：%d",points];
+    NSString *message = [NSString stringWithFormat:@"Congraduations，your score is：%d",points];
     
-    [[[UIAlertView alloc]initWithTitle:title message:message delegate:self cancelButtonTitle:@"朕已知晓，爱卿辛苦了" otherButtonTitles:nil, nil]show];
+    [[[UIAlertView alloc]initWithTitle:title message:message delegate:self cancelButtonTitle:@"Thank you" otherButtonTitles:nil, nil]show];
 
 }
 
